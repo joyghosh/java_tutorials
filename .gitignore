@@ -1,0 +1,6 @@
+#IDE specific files and directories
+.idea/
+*.iml
+
+#Target and compiled files
+target/
