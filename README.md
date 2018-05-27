@@ -6,6 +6,6 @@ Java tutorials and code samples
 - Nashorn engine
 - Concurrent classes
 
-### Java 8 or JDK 9
+### Java 9 or JDK 9
 - TODO
 
