@@ -31,5 +31,6 @@ public class LambdaMainApp {
         FunctionalInterface3 f = (s) -> System.out.println("Hello! "+s);
         f.printValue("Gill");
         f.printDefault("Gill says Hello!");
+        FunctionalInterface3.printStatic("Gill says Hi!");
     }
 }
