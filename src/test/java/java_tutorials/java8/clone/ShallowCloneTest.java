@@ -1,4 +1,4 @@
-package java_tutorials.java.clone;
+package java_tutorials.java8.clone;
 
 import java8.clone.shallow.Course;
 import java8.clone.shallow.Student;
